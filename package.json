@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/leshacat/node-stratum-pool",
+    "homepage": "github.com/buzzkillb/node-stratum-pool-easyD",
     "bugs": {
-        "url": "https://github.com/leshacat/node-stratum-pool/issues"
+        "url": "github.com/buzzkillb/node-stratum-pool-easyD/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -29,7 +29,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/leshacat/node-stratum-pool.git"
+        "url": "https://github.com/buzzkillb/node-multi-hashing-easyD.git"
     },
     "dependencies": {
         "async": "^2.5.0",
@@ -40,7 +40,7 @@
         "sshpk": ">=1.13.2",
         "lodash": ">=4.17.5",
         "hoek": ">=4.2.1",
-        "multi-hashing": "git://github.com/leshacat/node-multi-hashing.git"
+        "multi-hashing": "git://github.com/buzzkillb/node-multi-hashing-easyD.git"
     },
     "engines": {
         "node": ">=8.1.4"
